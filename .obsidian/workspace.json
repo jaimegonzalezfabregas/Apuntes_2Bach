@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "78848d92446e7696",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b04fab7abdb4bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0620c00fa33e9a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esquema de Dependencias de Temario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esquema de Dependencias de Temario"
+            }
+          },
+          {
+            "id": "5f440c44914c1579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Derivadas/Derivadas_Chuleta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivadas_Chuleta"
+            }
+          },
+          {
+            "id": "9297e0d31a3e2d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esquema de Dependencias de Temario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esquema de Dependencias de Temario"
+            }
+          },
+          {
+            "id": "6b03842d0ede2287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Derivadas/Derivadas_Chuleta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivadas_Chuleta"
+            }
+          },
+          {
+            "id": "3917e4da1c5b0e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esquema de Dependencias de Temario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esquema de Dependencias de Temario"
+            }
+          },
+          {
+            "id": "4de04f9a215534d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Limites/Límites_Chuleta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Límites_Chuleta"
+            }
+          },
+          {
+            "id": "1353ee24da660715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Integrales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integrales"
+            }
+          },
+          {
+            "id": "d48eaa7ff810b632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matrices"
+            }
+          },
+          {
+            "id": "571ed28992b02953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Derivadas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivadas"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f60290c28f561632",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f5c178b2cee5bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14acde9bbfda6db9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7fd0be2c0842bea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2820286b86769fdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "49e498e769fc9cbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b4d7317a0530d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4d310bcab9086e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computo/Derivadas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Derivadas"
+            }
+          },
+          {
+            "id": "7a1b21bb45b1a7e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computo/Derivadas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Derivadas"
+            }
+          },
+          {
+            "id": "8565a06706c1bb6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "155c9104777746d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computo/Derivadas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Derivadas"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4de04f9a215534d1",
+  "lastOpenFiles": [
+    "Chuletas del profe/wuolah-free-limites-2-bach-ciencias.pdf",
+    "Esquema de Dependencias de Temario.md",
+    "Computo/Limites/Límites_Chuleta.md",
+    "Computo/Derivadas/Derivadas_Chuleta.md",
+    "Computo/Limites",
+    "Computo/Derivadas/Derivadas_Ejercicios.md",
+    "Computo/Matrices/Matrices_Chuleta.md",
+    "Computo/Integrales/Integrales_Chuleta.md",
+    "Computo/Integrales",
+    "Computo/Derivadas",
+    "Computo/Matrices",
+    "Panificacion Semanal.md",
+    "Chuletas del profe/wuolah-free-resumen-matematicas-bachillerato.pdf",
+    "Chuletas del profe/wuolah-free-RESUMENES-COMPLETOS-MATEMATICAS-2o-BACHILLERATO-CIENTIFICO.pdf",
+    "Chuletas del profe/wuolah-free-Matematicas-2-Bachillerato.pdf",
+    "Chuletas del profe",
+    "Computo"
+  ]
+}
