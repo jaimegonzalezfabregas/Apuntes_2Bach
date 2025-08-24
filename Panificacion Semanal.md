@@ -1,8 +1,8 @@
 ## 4 Sep
 - Presentación del esquema de dependencias y planificación
-- Introdución / Repaso de computo
-- 
-
+- Qué es una función
+- Límites 
+- Asíntotas
 ## 11 Sep
 ## 18 Sep
 ## 25 Sep

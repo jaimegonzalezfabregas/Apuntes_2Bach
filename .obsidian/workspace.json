@@ -4,81 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4b04fab7abdb4bac",
+        "id": "0e0fdefccf58b423",
         "type": "tabs",
         "children": [
           {
-            "id": "0620c00fa33e9a46",
+            "id": "260b919cfd9ef230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esquema de Dependencias de Temario.md",
+                "file": "Panificacion Semanal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esquema de Dependencias de Temario"
+              "title": "Panificacion Semanal"
             }
           },
           {
-            "id": "5f440c44914c1579",
+            "id": "89ed50a8682f47a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computo/Derivadas/Derivadas_Chuleta.md",
-                "mode": "source",
-                "source": false
+                "file": "Chuletas del profe/Limites2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Derivadas_Chuleta"
+              "icon": "lucide-file-text",
+              "title": "Limites2"
             }
           },
           {
-            "id": "9297e0d31a3e2d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Esquema de Dependencias de Temario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esquema de Dependencias de Temario"
-            }
-          },
-          {
-            "id": "6b03842d0ede2287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computo/Derivadas/Derivadas_Chuleta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivadas_Chuleta"
-            }
-          },
-          {
-            "id": "3917e4da1c5b0e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Esquema de Dependencias de Temario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esquema de Dependencias de Temario"
-            }
-          },
-          {
-            "id": "4de04f9a215534d1",
+            "id": "d7e4d644adbabb7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,49 +48,21 @@
             }
           },
           {
-            "id": "1353ee24da660715",
+            "id": "b838ae0364653980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computo/Integrales.md",
+                "file": "Computo/Herramientas/Ruffini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrales"
-            }
-          },
-          {
-            "id": "d48eaa7ff810b632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computo/Matrices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matrices"
-            }
-          },
-          {
-            "id": "571ed28992b02953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computo/Derivadas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivadas"
+              "title": "Ruffini"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,11 +211,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4de04f9a215534d1",
+  "active": "b838ae0364653980",
   "lastOpenFiles": [
-    "Chuletas del profe/wuolah-free-limites-2-bach-ciencias.pdf",
-    "Esquema de Dependencias de Temario.md",
     "Computo/Limites/Límites_Chuleta.md",
+    "Computo/Herramientas/Ruffini.md",
+    "Computo/Herramientas",
+    "Chuletas del profe/Limites2.pdf",
+    "Panificacion Semanal.md",
+    "Chuletas del profe/Limites1.pdf",
+    "Chuletas del profe/wuolah-free-RESUMENES-COMPLETOS-MATEMATICAS-2o-BACHILLERATO-CIENTIFICO.pdf",
+    "Esquema de Dependencias de Temario.md",
     "Computo/Derivadas/Derivadas_Chuleta.md",
     "Computo/Limites",
     "Computo/Derivadas/Derivadas_Ejercicios.md",
@@ -296,11 +229,7 @@
     "Computo/Integrales",
     "Computo/Derivadas",
     "Computo/Matrices",
-    "Panificacion Semanal.md",
     "Chuletas del profe/wuolah-free-resumen-matematicas-bachillerato.pdf",
-    "Chuletas del profe/wuolah-free-RESUMENES-COMPLETOS-MATEMATICAS-2o-BACHILLERATO-CIENTIFICO.pdf",
-    "Chuletas del profe/wuolah-free-Matematicas-2-Bachillerato.pdf",
-    "Chuletas del profe",
-    "Computo"
+    "Chuletas del profe/wuolah-free-Matematicas-2-Bachillerato.pdf"
   ]
 }
