@@ -31,3 +31,4 @@ $$
 - $\infty / 0$ y $0/\infty$
 	- No son indeterminaciones
 
+# Ejercicios

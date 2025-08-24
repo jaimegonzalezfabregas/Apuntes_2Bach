@@ -11,14 +11,12 @@
             "id": "260b919cfd9ef230",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Panificacion Semanal.md",
-                "mode": "source",
-                "source": false
+                "file": "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Panificacion Semanal"
+              "icon": "lucide-file-text",
+              "title": "wuolah-free-Matematicas-1-Bach"
             }
           },
           {
@@ -27,10 +25,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Chuletas del profe/Limites2.pdf"
+                "file": "Chuletas del profe/1ro Bach/wuolah-free-Algebra-1-bach.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Limites2"
+              "title": "wuolah-free-Algebra-1-bach"
+            }
+          },
+          {
+            "id": "3d316839640d401d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computo/Herramientas/Igualdades Notables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Igualdades Notables"
             }
           },
           {
@@ -53,16 +65,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computo/Herramientas/Ruffini.md",
+                "file": "Computo/Limites/Límites_Chuleta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruffini"
+              "title": "Límites_Chuleta"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,25 +222,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b838ae0364653980",
+  "active": "260b919cfd9ef230",
   "lastOpenFiles": [
-    "Computo/Limites/Límites_Chuleta.md",
-    "Computo/Herramientas/Ruffini.md",
-    "Computo/Herramientas",
-    "Chuletas del profe/Limites2.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Los-numeros-reales-1-bach.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Limites-y-continuidad-1-bach.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Funciones-II-1-bach.pdf",
     "Panificacion Semanal.md",
-    "Chuletas del profe/Limites1.pdf",
-    "Chuletas del profe/wuolah-free-RESUMENES-COMPLETOS-MATEMATICAS-2o-BACHILLERATO-CIENTIFICO.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Algebra-1-bach.pdf",
+    "Computo/Herramientas/Igualdades Notables.md",
+    "Chuletas del profe/1ro Bach/wuolah-free-Derivadas-1-bach.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach-1.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1BACH.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Funciones-1-bach.pdf",
+    "Chuletas del profe/Limites2.pdf",
+    "Computo/Limites/Límites_Chuleta.md",
+    "Computo/Integrales/Integrales_Chuleta.md",
+    "Computo/Herramientas/Ruffini.md",
     "Esquema de Dependencias de Temario.md",
     "Computo/Derivadas/Derivadas_Chuleta.md",
-    "Computo/Limites",
     "Computo/Derivadas/Derivadas_Ejercicios.md",
-    "Computo/Matrices/Matrices_Chuleta.md",
-    "Computo/Integrales/Integrales_Chuleta.md",
-    "Computo/Integrales",
-    "Computo/Derivadas",
-    "Computo/Matrices",
-    "Chuletas del profe/wuolah-free-resumen-matematicas-bachillerato.pdf",
-    "Chuletas del profe/wuolah-free-Matematicas-2-Bachillerato.pdf"
+    "Computo/Matrices/Matrices_Chuleta.md"
   ]
 }

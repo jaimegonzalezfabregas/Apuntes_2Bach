@@ -1,5 +1,8 @@
 ## 4 Sep
 - Presentación del esquema de dependencias y planificación
+- Limites
+- Inecuaciones 
+- Ruffini
 - Qué es una función
 - Límites 
 - Asíntotas
