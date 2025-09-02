@@ -11,12 +11,14 @@
             "id": "260b919cfd9ef230",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach.pdf"
+                "file": "Panificacion Semanal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "wuolah-free-Matematicas-1-Bach"
+              "icon": "lucide-file",
+              "title": "Panificacion Semanal"
             }
           },
           {
@@ -224,6 +226,7 @@
   },
   "active": "260b919cfd9ef230",
   "lastOpenFiles": [
+    "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Los-numeros-reales-1-bach.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Limites-y-continuidad-1-bach.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Funciones-II-1-bach.pdf",
@@ -231,7 +234,6 @@
     "Chuletas del profe/1ro Bach/wuolah-free-Algebra-1-bach.pdf",
     "Computo/Herramientas/Igualdades Notables.md",
     "Chuletas del profe/1ro Bach/wuolah-free-Derivadas-1-bach.pdf",
-    "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach-1.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1BACH.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Funciones-1-bach.pdf",

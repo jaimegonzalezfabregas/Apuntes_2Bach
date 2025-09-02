@@ -1,11 +1,11 @@
 ## 4 Sep
 - Presentación del esquema de dependencias y planificación
-- Limites
-- Inecuaciones 
-- Ruffini
-- Qué es una función
-- Límites 
-- Asíntotas
+- Repaso 1 Bach
+	- Limites
+	- Inecuaciones 
+	- Ruffini
+	- Qué es una función
+	- Límites 
 ## 11 Sep
 ## 18 Sep
 ## 25 Sep
