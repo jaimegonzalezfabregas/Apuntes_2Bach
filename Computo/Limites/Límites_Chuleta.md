@@ -10,8 +10,10 @@ $$
 
 # Indeterminaciones
 - $0 / 0$
-	- Fraciones de polinomios: Rufini y simplificar
+	- Fraciones de polinomios: 
+		- Rufini (con la raiz del polinomio) y simplificar
 	- L'Hopital: Derivar y volver a calcular
+	- Si hay raices multiplicar por el conjugado
 
 - $\infty / \infty$
 	- __Fracciones heterogeneas__: Termino de más poder
@@ -30,5 +32,9 @@ $$
 	- Calcular límites laterales 
 - $\infty / 0$ y $0/\infty$
 	- No son indeterminaciones
+- $0^\infty$ o $\infty^0$ o $0^0$ 
+	- Asumir que el límite existe y aplicar las propiedades de los logaritmos
 
-# Ejercicios
+Recursos:
+- https://www.fisicalab.com/apartado/indeterminaciones
+- https://www.fisicalab.com/apartado/regla-de-lhopital#ind_0_inf

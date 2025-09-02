@@ -3,9 +3,9 @@
 - Repaso 1 Bach
 	- Limites
 	- Inecuaciones 
-	- Ruffini
-	- Qué es una función
-	- Límites 
+	- Ruffini 
+	- Análisis: Qué es una función
+	- Análisis: Dominio de una función
 ## 11 Sep
 ## 18 Sep
 ## 25 Sep

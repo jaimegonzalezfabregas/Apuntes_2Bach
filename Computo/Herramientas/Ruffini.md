@@ -1,4 +1,4 @@
-Ejemplos:
+Ejercicio: Encuentra 
 - $x^2-1 = 0$
 - $x^3+2x^2-x-2 = 0$
 - $x^3+2x-3 = 0$
