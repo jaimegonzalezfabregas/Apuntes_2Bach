@@ -64,15 +64,27 @@
             }
           },
           {
+            "id": "d56d4bc604a0af7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "hojas de ejercicios/Hoja_2_boltzano.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Hoja_2_boltzano"
+            }
+          },
+          {
             "id": "89ed50a8682f47a0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Chuletas del profe/1ro Bach/wuolah-free-Algebra-1-bach.pdf"
+                "file": "hojas de ejercicios/Hoja_2_Boltzano_resuelto.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "wuolah-free-Algebra-1-bach"
+              "title": "Hoja_2_Boltzano_resuelto"
             }
           },
           {
@@ -81,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computo/Herramientas/Igualdades Notables.md",
+                "file": "hojas de ejercicios/Repaso Examen 30-sep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Igualdades Notables"
+              "title": "Repaso Examen 30-sep"
             }
           },
           {
@@ -118,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -267,9 +279,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a20716aa6df70adf",
+  "active": "3d316839640d401d",
   "lastOpenFiles": [
+    "Computo/Herramientas/Igualdades Notables.md",
+    "hojas de ejercicios/Hoja_2_Boltzano_resuelto.pdf",
+    "hojas de ejercicios/Repaso Examen 30-sep.md",
+    "Chuletas del profe/Limites2.pdf",
+    "Esquema de Dependencias de Temario.md",
     "Funciones.md",
+    "hojas de ejercicios/Hoja_1_graficas_y_limites.pdf",
+    "Chuletas del profe/1ro Bach/wuolah-free-Algebra-1-bach.pdf",
+    "hojas de ejercicios/Hoja_2_boltzano.pdf",
     "Readme.md",
     "Computo/Inecuaciones/Inecuaciones Chuleta.md",
     "Computo/Integrales/Integrales_Chuleta.md",
@@ -277,19 +297,12 @@
     "Computo/Limites/Límites_Chuleta.md",
     "Computo/Limites/Limites_Ejercicios.md",
     "Computo/Inecuaciones",
-    "Esquema de Dependencias de Temario.md",
-    "Chuletas del profe/Limites2.pdf",
-    "Chuletas del profe/1ro Bach/wuolah-free-Algebra-1-bach.pdf",
-    "Computo/Herramientas/Igualdades Notables.md",
     "Computo/Herramientas/Ruffini.md",
     "Computo/Derivadas/Derivadas_Ejercicios.md",
     "Computo/Derivadas/Derivadas_Chuleta.md",
     "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1-Bach-1.pdf",
     "Chuletas del profe/1ro Bach/wuolah-free-Matematicas-1BACH.pdf",
-    "Chuletas del profe/1ro Bach/wuolah-free-Los-numeros-reales-1-bach.pdf",
-    "Chuletas del profe/1ro Bach/wuolah-free-Limites-y-continuidad-1-bach.pdf",
-    "Chuletas del profe/1ro Bach/wuolah-free-Funciones-II-1-bach.pdf",
-    "Chuletas del profe/1ro Bach/wuolah-free-Derivadas-1-bach.pdf"
+    "Chuletas del profe/1ro Bach/wuolah-free-Los-numeros-reales-1-bach.pdf"
   ]
 }
